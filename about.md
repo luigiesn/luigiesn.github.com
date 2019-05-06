@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sobre mim
+title: Luigi Sica Nery
 ---
 
 Olá,
