@@ -1,5 +1,5 @@
 ---
-title: LOC110: um optoacoplador linear - Prazer em conhecê-lo!
+title: LOC110, um optoacoplador linear - Prazer em conhecê-lo!
 updated: 2019-05-05 21:39
 ---
 
