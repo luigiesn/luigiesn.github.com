@@ -3,6 +3,6 @@ layout: page
 title: Sobre mim
 ---
 
-Hello.
+Olá,
 
-Não tenho muito o que dizer sobre mim. Massss você não veio aqui à toa. Se quiser saber um pouco mais, será muito bem vindo no meu instagram [@luigithings](instagram.com/luigithings).
+não tenho muito o que dizer sobre mim. Massss você não veio aqui à toa. Se quiser saber um pouco mais, será muito bem vindo no meu instagram [@luigithings](instagram.com/luigithings).
