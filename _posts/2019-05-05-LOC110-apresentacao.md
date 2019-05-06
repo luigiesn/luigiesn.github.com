@@ -5,7 +5,7 @@ updated: 2019-05-05 21:39
 
 ## O LOC110
 
-Esse dispostivo é um optoacoplador linear um LED no qual o par óptico é composto de apenas um LED emissor, mas dois fotodiodos. É chamado linear pois as relações de corrente entre seus elementos são proporcionais entre si. 
+Esse dispostivo é um optoacoplador linear no qual o par óptico é composto de apenas um LED emissor, mas dois fotodiodos. É chamado linear pois as relações de corrente entre seus elementos são proporcionais entre si. 
 Um desses diodos é chamado de **fotodiodo servo** (_servo photodiode_) e o outro de **fotodiodo de saída** (_output photodiode_).
 
 ![Diagrama do LOC110](/assets/posts/2019-05-05-LOC110-apresentacao/2019-05-05-LOC110-apresentacao.png)
